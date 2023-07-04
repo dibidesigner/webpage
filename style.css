@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+.mainhead{
+    height:35px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.blackheader{
+    height: 35px;
+    width: 800px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-right: 10px;
+}
+.blackheader img{
+    height: 10px;
+    width: auto;
+    
+}
+
+.blackheader p{
+    font-size: 12px;
+    
+}
+.option{
+    color: black;
+}
+.yellowshape{
+    
+    display: flex;
+    
+}
+.yellowshape img{
+    height: 17px;
+    margin-right: 10px;
+}
+.darkblue{
+    height: 120px;
+    background-color: rgb(25, 25, 104);
+    display: flex;
+    align-items: center;
+}
+.darkblue img{
+    margin-left: 70px;
+    
+}
+.darkblue input{
+    height: 50px;
+    width: 350px;
+    position: relative;
+    left: 400px;
+    border-radius: 20px;
+    background-color:rgba(255, 255, 255, 0.5);
+    border:none;
+}
+.blueheader{
+    height: 45px;
+    background-color: blue;
+}
+
+.whiteheader{
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+}
+.photoframe{
+    height: 600px;
+    background-color: blueviolet;
+    background-image: url("image1.jpg");
+    background-size: cover;
+}
+.blueheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.blueheader p{
+    margin-right: 20px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
